@@ -13,7 +13,7 @@ A simple note-taking app built with React and Vite.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/note-taking-app.git
+    git clone https://github.com/uluutku/react-note-taking-app.git
     ```
 
 2. Install dependencies:
