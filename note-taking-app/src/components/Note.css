@@ -1,0 +1,32 @@
+.note {
+    background-color: #0000003b;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .note p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .note .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .note button {
+    background-color: #355963;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .note button:hover {
+    background-color: #4fa3d1;
+  }
+  
